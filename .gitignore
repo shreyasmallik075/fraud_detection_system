@@ -7,8 +7,6 @@ venv/
 env/
 .DS_Store
 Thumbs.db
-
-# Ignore datasets (you will use a download script)
 *.csv
 
 # Track all models folder

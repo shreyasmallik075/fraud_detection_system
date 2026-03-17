@@ -47,8 +47,8 @@ Charts powered by Plotly.
 
 ## Dashboard Prediction
 
-< img src="images/dashboard_1.png" alt="Transaction" width="600">     >
-< img src="images/dashboard_2.png" alt="Transaction_Prediction" width="600">
+<img src="images/dashboard_1.png" alt="Transaction" width="600"/>
+<img src="images/dashboard_2.png" alt="Transaction_Prediction" width="600"/>
 
 ---
 

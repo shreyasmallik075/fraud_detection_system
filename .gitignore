@@ -1,6 +1,4 @@
-paysim.csv
-*.csv
-models/
+# Ignore everything unnecessary
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -9,3 +7,9 @@ venv/
 env/
 .DS_Store
 Thumbs.db
+
+# Ignore datasets (you will use a download script)
+*.csv
+
+# Track all models folder
+!models/**

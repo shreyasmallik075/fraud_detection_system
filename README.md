@@ -49,10 +49,7 @@ Charts powered by Plotly.
 
 ```
 fraud-detection-system
-│
-├── data/
-│   └── fraud.csv
-│
+|
 ├── models/
 │   ├── fraud_model.pkl
 │   ├── scaler.pkl
@@ -88,6 +85,11 @@ http://localhost:8501
 ```
 
 ---
+
+## Dataset
+
+This project uses the [PaySim dataset](https://www.kaggle.com/datasets/ntnu-testimon/paysim1). #As dataset is too large 
+You can download the CSV file manually from Kaggle and place it in the project folder. 
 
 # 🛠 Tech Stack
 
